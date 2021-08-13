@@ -4,10 +4,9 @@
 ## Motivação
 Teste realizado na API com objetivo testar os principais verbos HTTP na rota de Books e realizar um teste de contrato.
 
-````````````````
-https://fakerestapi.azurewebsites.net/index.html
 
-````````````````
+<a href="https://fakerestapi.azurewebsites.net/index.html">FakeRESTApi.Web V1</a>
+
 
 ### 🛠️ Ferramentas Utilizadas
 
