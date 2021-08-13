@@ -14,7 +14,7 @@ Visual Studio Code
 <br>Ruby 2.7
 <br>Cmder 1.3
 
-### :gem:Gems (Disponíveis em:  "https://rubygems.org")
+### :gem:Gems Disponíveis em <a href="https://rubygems.org">Rubygems</a>
 <br>gem "rspec", "3.10"
 <br>gem "httparty", "0.18.1"
 <br>gem "json_matchers"
