@@ -1,0 +1,23 @@
+{ "description": "Schema Books",
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "pageCount": {
+        "type": "integer"
+      },
+      "excerpt": {
+        "type": "string"
+      },
+      "publishDate": {
+        "type": "string"
+      }
+    }
+}
