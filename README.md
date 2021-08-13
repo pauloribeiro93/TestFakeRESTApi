@@ -53,7 +53,9 @@ bundle install
  
 ```
 - Http Status Code
-- Validação de teste de contrato para cada campo 
+- Validar que response não está vazio
+- Validação de teste de contrato para cada campo
+
 ```
 
 
