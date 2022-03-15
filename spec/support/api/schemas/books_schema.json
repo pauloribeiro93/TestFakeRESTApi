@@ -5,7 +5,8 @@
         "type": "integer"
       },
       "title": {
-        "type": "string"
+        "type": "string",
+        "nullable": true
       },
       "description": {
         "type": "string"
@@ -13,11 +14,12 @@
       "pageCount": {
         "type": "integer"
       },
+      "publishDate": {
+        "type": "string",
+        "format": "date-time"
+      },
       "excerpt": {
         "type": "string"
-      },
-      "publishDate": {
-        "type": "string"
-      }
+        
     }
-}
+}}
