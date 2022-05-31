@@ -10,7 +10,7 @@ class Books < BaseApi
 
   def findGetBook(id)
     return self.class.get(
-             "/Books/#{id}"
+             '/Books/#{id}'
            )
   end
 
